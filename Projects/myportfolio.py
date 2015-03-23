@@ -74,7 +74,7 @@ def main():
 			if choice == '1':
 				buy_new()
 			elif choice == '2':
-				print '2 paparia'
+				print 'choice is 2'
 				pass
 			elif choice == '5':
 				pass
